@@ -3,6 +3,8 @@ Sorteio
 
 Aplicação simples para sortear um nome de uma lista de nomes, construída em PHP com Slim Framework, jQuery e Twitter Bootstrap. Essa aplicação foi criada originalmente para um sorteio de Pendrives interno do ITAI. Permite obter uma string aleatória de uma lista separada por quebras de linha "\n".
 
+Se preferir a versão online, acesse aqui: [http://sorteio-app.herokuapp.com/](http://sorteio-app.herokuapp.com/).
+
 ## Instalação
 
 Faça o download da última versão dos frameworks:
